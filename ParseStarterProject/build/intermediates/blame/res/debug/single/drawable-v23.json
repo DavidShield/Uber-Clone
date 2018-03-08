@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shield/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/shield/.android/build-cache/33d276126ca8fb895699c7a721d0c26758745b0a/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
